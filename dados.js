@@ -174,7 +174,7 @@ const defaultSiteData = {
         "title": "O que dizem sobre a Free Way",
         "desc": "Veja as avaliações reais no Google e conte como foi o seu atendimento.",
         "googleBtnLabel": "Ver avaliações no Google",
-        "googleUrl": "https://www.google.com/maps/place/Amortecedores+e+Embreagens+Free+Way/@-18.8597828,-48.2889996,18z/data=!4m9!1m2!29m1!1b1!3m5!1s0x94a446f1906efb93:0x2e0864e69309d001!8m2!3d-18.8597879!4d-48.2873184!16s%2Fg%2F11c3174qzq?authuser=0&entry=ttu&g_ep=EgoyMDI2MTEwMy4wIKXMDSoASAFQAw%3D%3D",
+        "googleUrl": "https://www.google.com/maps/place/Amortecedores+e+Embreagens+Free+Way/@-18.8597828,-48.2875783,20z/data=!4m6!3m5!1s0x94a446f1906efb93:0x2e0864e69309d001!8m2!3d-18.8597879!4d-48.2873184!16s%2Fg%2F11c3174qzq?entry=ttu&g_ep=EgoyMDI2MTEwMy4wIKXMDSoASAFQAw%3D%3D",
         "items": []
     },
 
@@ -218,7 +218,7 @@ const defaultSiteData = {
         "whatsapp": "34999712897",
         "waMessage": "Olá! Gostaria de um orçamento na Free Way Amortecedores.",
         "email": "pafreeway@hotmail.com",
-        "mapsUrl": "https://www.google.com/maps/place/Amortecedores+e+Embreagens+Free+Way/@-18.8597828,-48.2889996,18z/data=!4m9!1m2!29m1!1b1!3m5!1s0x94a446f1906efb93:0x2e0864e69309d001!8m2!3d-18.8597879!4d-48.2873184!16s%2Fg%2F11c3174qzq?authuser=0&entry=ttu&g_ep=EgoyMDI2MTEwMy4wIKXMDSoASAFQAw%3D%3D",
+        "mapsUrl": "https://www.google.com/maps/place/Amortecedores+e+Embreagens+Free+Way/@-18.8597828,-48.2875783,20z/data=!4m6!3m5!1s0x94a446f1906efb93:0x2e0864e69309d001!8m2!3d-18.8597879!4d-48.2873184!16s%2Fg%2F11c3174qzq?entry=ttu&g_ep=EgoyMDI2MTEwMy4wIKXMDSoASAFQAw%3D%3D",
         "floatingWhatsapp": true,
         "footerSub": "Mais de 40 anos de tradição em Uberlândia e região.",
         "copyright": "Posto de Amortecedores Free Way Ltda. Todos os direitos reservados.",
